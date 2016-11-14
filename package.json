@@ -10,11 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/jkom-cloud/ip.git"
   },
+  "bin": {
+    "ip": "./bin/ip.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jkom-cloud/ip/issues"
   },
-  "homepage": "https://github.com/jkom-cloud/ip#readme"
+  "homepage": "https://github.com/jkom-cloud/ip#readme",
+  "dependencies": {
+    "node-localip": "^0.1.3"
+  }
 }
