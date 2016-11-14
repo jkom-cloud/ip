@@ -11,7 +11,7 @@ npm install https://github.com/jkom-cloud/ip.git
 ### As command tool
 
 ```bash
-$ npm i -g npm install https://github.com/jkom-cloud/ip.git
+$ npm i -g https://github.com/jkom-cloud/ip.git
 $ ip
 $ 10.0.1.16
 ```
