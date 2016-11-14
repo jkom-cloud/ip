@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-npm install https://github.com/jkom-cloud/ip.git
+npm install https://github.com/jkom-cloud/ip.git --save
 ```
 
 ## Usage
